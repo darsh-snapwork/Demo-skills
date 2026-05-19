@@ -12,13 +12,15 @@ if (command === 'add') {
 
     const source = path.join(
         __dirname,
-        '../skills',
+        '../.github/skills',
         skillName
     );
 
+    console.log("Source Path:", source);
+
     const destination = path.join(
         process.cwd(),
-        '.skills',
+        '../.github/skills',
         skillName
     );
 
