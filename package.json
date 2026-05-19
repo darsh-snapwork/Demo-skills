@@ -1,0 +1,11 @@
+{
+  "name": "demo-skills",
+  "version": "1.0.0",
+  "bin": {
+    "demo-skills": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "fs-extra": "^11.2.0"
+  }
+}
