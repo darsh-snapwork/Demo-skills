@@ -1,6 +1,7 @@
-﻿name: clickstream-integration
+﻿---
+name: clickstream-integration
 description: Validates and implements clickstream/analytics events across any platform. Auto-detects clickstream definition files (.json, .xlsx, .csv, .md, .pdf, .pptx, .ppt) from the project, normalizes them, then audits or fixes every dispatch call site to 100% compliance. Only asks for manual upload if no definition file is found.
-
+---
 # Purpose
 
 Auto-detect the project's clickstream definition file, normalize it into deterministic JSON, then scan the project and audit or fix every analytics dispatch call site to 100% compliance. Parameter key naming is always read from the definition file — never assumed.
