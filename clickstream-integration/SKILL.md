@@ -5,8 +5,6 @@ description:
   Auto-detects clickstream definition files (.json, .xlsx, .csv, .md, .pdf, .pptx, .ppt) from the project,
   normalizes them, then audits or fixes every dispatch call site to 100% compliance.
   Only asks for manual upload if no definition file is found.
-version: 2.0.0
-user-invocable: true
 ---
 
 # Purpose
