@@ -1,0 +1,46 @@
+name: clickstream-integration
+version: 1.1.0
+status: active
+category: analytics
+platforms:
+  - angular
+  - react
+  - react-native
+  - vue
+  - android
+  - ios
+  - flutter
+tags:
+  - clickstream
+  - analytics
+  - event-tracking
+  - ep-parameters
+  - audit
+  - fix
+  - validation
+  - mapping
+  - platform-agnostic
+  - null-safety
+owner: angular-skill-development-team
+changelog:
+  - version: 1.1.0
+    date: 2026-05-18
+    changes:
+      - added PDF clickstream definition format support (pdf-parse, text-based only)
+      - added PPTX clickstream definition format support (officeparser, table slides only)
+      - added PPT graceful fallback with conversion request
+      - added confidence scoring for PDF/PPTX extraction
+      - updated clickstream-config.json with pdf/pptx/ppt entries
+      - updated parser-config.json with pdf/pptx/ppt parser definitions
+      - updated parse-clickstream-sheet.js with parsePdf/parsePptx/parsePpt handlers
+      - detect-clickstream-sheet.js requires no changes (config-driven)
+      - normalize-events.js requires no changes (format-agnostic pipeline)
+      - updated SKILL.md with supported formats, PDF/PPTX safety rules, PPT fallback rule
+      - updated readme.md with format guidance sections
+  - version: 1.1.0
+    date: 2026-05-14
+    changes:
+      - sdk selection menu added to the skill
+      - updated angular platform-specific reference file
+      - updated readme.md file
+      - updated skill.md file

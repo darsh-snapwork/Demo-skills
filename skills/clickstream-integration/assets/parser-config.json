@@ -1,0 +1,34 @@
+{
+  "xlsx": {
+    "package": "xlsx",
+    "import": "xlsx"
+  },
+
+  "csv": {
+    "package": "csv-parse",
+    "import": "csv-parse/sync"
+  },
+
+  "md": {
+    "package": null
+  },
+
+  "json": {
+    "package": null
+  },
+
+  "pdf": {
+    "package": "pdf-parse",
+    "import": "pdf-parse"
+  },
+
+  "pptx": {
+    "package": "officeparser",
+    "import": "officeparser"
+  },
+
+  "ppt": {
+    "supported": false,
+    "fallback": "manual-conversion"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  ".ts": "angular",
+  ".tsx": "react",
+  ".jsx": "react",
+  ".kt": "android",
+  ".java": "android",
+  ".swift": "ios",
+  ".dart": "flutter",
+  ".vue": "vue",
+
+  "_comment_disambiguation": "For .tsx/.jsx files, always run the React Native disambiguation check BEFORE loading a platform reference.",
+  "disambiguation": {
+    "react_to_react_native": {
+      "trigger_extensions": [".tsx", ".jsx"],
+      "signals": [
+        { "check": "package_json_dependencies", "key": "react-native" },
+        { "check": "source_import", "pattern": "from 'react-native'" }
+      ],
+      "if_any_signal_found": "react-native",
+      "reference_file": "references/react-native-clickstream-reference.md",
+      "else": "react",
+      "else_reference_file": "references/react-clickstream-reference.md",
+      "rule": "Never load both. State the detected platform explicitly in chat before proceeding."
+    }
+  }
+}

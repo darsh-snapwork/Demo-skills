@@ -1,0 +1,50 @@
+{
+  "ga4": {
+    "displayName": "Google Analytics 4 (GA4)",
+    "packages": [
+      "firebase",
+      "@firebase/analytics"
+    ],
+    "rnPackages": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/analytics"
+    ],
+    "sourceSignals": [
+      "gtag(",
+      "logEvent(analytics",
+      "analytics().logEvent("
+    ],
+    "dispatchPattern": "gtag('event', eventName, props)",
+    "rnDispatchPattern": "analytics().logEvent(eventName, props)"
+  },
+
+  "clevertap": {
+    "displayName": "CleverTap",
+    "packages": [
+      "clevertap-web-sdk"
+    ],
+    "rnPackages": [
+      "clevertap-react-native"
+    ],
+    "sourceSignals": [
+      "clevertap.event.push(",
+      "CleverTap.recordEvent("
+    ],
+    "dispatchPattern": "clevertap.event.push([eventName, props])",
+    "rnDispatchPattern": "CleverTap.recordEvent(eventName, props)"
+  },
+
+  "custom": {
+    "displayName": "Custom ClickstreamService",
+    "packages": [],
+    "rnPackages": [],
+    "sourceSignals": [
+      "ClickstreamService",
+      "clickstream.track(",
+      "sendAnalyticsEvent(",
+      "AnalyticsService.track("
+    ],
+    "dispatchPattern": "this.clickstreamService.track(eventName, props)",
+    "rnDispatchPattern": "sendAnalyticsEvent(eventName, props)"
+  }
+}

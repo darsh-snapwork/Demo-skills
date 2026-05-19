@@ -1,0 +1,10 @@
+{
+  "clevertap": {
+    "installationSkill": "clevertap-installation",
+    "required": true
+  },
+  "ga4": {
+    "installationSkill": "ga4-installation",
+    "required": true
+  }
+}

@@ -1,0 +1,361 @@
+﻿{
+  "success": true,
+  "events": [],
+  "params": {
+    "VARIABLE": {
+      "rawValue": "CT EVENT PROPERTY",
+      "isDynamic": false,
+      "expectedValue": "CT EVENT PROPERTY"
+    },
+    "Component Name": {
+      "rawValue": "EP_COMPONENT_NAME",
+      "isDynamic": false,
+      "expectedValue": "EP_COMPONENT_NAME"
+    },
+    "Event Type": {
+      "rawValue": "EP_EVENT_TYPE",
+      "isDynamic": false,
+      "expectedValue": "EP_EVENT_TYPE"
+    },
+    "Element": {
+      "rawValue": "EP_CLICK_TYPE",
+      "isDynamic": false,
+      "expectedValue": "EP_CLICK_TYPE"
+    },
+    "Component ID": {
+      "rawValue": "EP_REFERENCE_ID",
+      "isDynamic": false,
+      "expectedValue": "EP_REFERENCE_ID"
+    },
+    "Page URL": {
+      "rawValue": "EP_PAGE_URL",
+      "isDynamic": false,
+      "expectedValue": "EP_PAGE_URL"
+    },
+    "Destination URL": {
+      "rawValue": "EP_DESTINATION",
+      "isDynamic": false,
+      "expectedValue": "EP_DESTINATION"
+    },
+    "Section Title": {
+      "rawValue": "EP_SECTION",
+      "isDynamic": false,
+      "expectedValue": "EP_SECTION"
+    },
+    "CTA Text": {
+      "rawValue": "EP_CTA_TEXT",
+      "isDynamic": false,
+      "expectedValue": "EP_CTA_TEXT"
+    },
+    "Tab Position": {
+      "rawValue": "EP_POSITION",
+      "isDynamic": false,
+      "expectedValue": "EP_POSITION"
+    },
+    "Sub Section": {
+      "rawValue": "EP_SUB_SECTION",
+      "isDynamic": false,
+      "expectedValue": "EP_SUB_SECTION"
+    },
+    "Product Name": {
+      "rawValue": "EP_PRODUCT_NAME",
+      "isDynamic": false,
+      "expectedValue": "EP_PRODUCT_NAME"
+    },
+    "Product Category": {
+      "rawValue": "EP_PRODUCT_CATEGORY",
+      "isDynamic": false,
+      "expectedValue": "EP_PRODUCT_CATEGORY"
+    },
+    "Page Type": {
+      "rawValue": "EP_PROPERTY_TYPE",
+      "isDynamic": false,
+      "expectedValue": "EP_PROPERTY_TYPE"
+    },
+    "Customer Type": {
+      "rawValue": "EP_CUSTOMER_TYPE",
+      "isDynamic": false,
+      "expectedValue": "EP_CUSTOMER_TYPE"
+    },
+    "Journey Identifier": {
+      "rawValue": "EP_JOURNEY",
+      "isDynamic": false,
+      "expectedValue": "EP_JOURNEY"
+    },
+    "Stage Name": {
+      "rawValue": "EP_STAGE",
+      "isDynamic": false,
+      "expectedValue": "EP_STAGE"
+    },
+    "Customer ID": {
+      "rawValue": "EP_CUSTOMER_ID",
+      "isDynamic": false,
+      "expectedValue": "EP_CUSTOMER_ID"
+    },
+    "Event Status": {
+      "rawValue": "EP_SUCCESS_EVENT_TYPE",
+      "isDynamic": false,
+      "expectedValue": "EP_SUCCESS_EVENT_TYPE"
+    },
+    "Custom 1": {
+      "rawValue": "EP_CUST_ATTRIBUTE_1",
+      "isDynamic": false,
+      "expectedValue": "EP_CUST_ATTRIBUTE_1"
+    },
+    "Custom 2": {
+      "rawValue": "EP_CUST_ATTRIBUTE_2",
+      "isDynamic": false,
+      "expectedValue": "EP_CUST_ATTRIBUTE_2"
+    },
+    "Custom 3": {
+      "rawValue": "EP_CUST_ATTRIBUTE_3",
+      "isDynamic": false,
+      "expectedValue": "EP_CUST_ATTRIBUTE_3"
+    },
+    "Validation Error": {
+      "rawValue": "EP_VALIDATION_ERROR",
+      "isDynamic": false,
+      "expectedValue": "EP_VALIDATION_ERROR"
+    },
+    "Type of Nudge": {
+      "rawValue": "EP_NUDGE",
+      "isDynamic": false,
+      "expectedValue": "EP_NUDGE"
+    },
+    "Nudge Value": {
+      "rawValue": "EP_NUDGE_VALUE",
+      "isDynamic": false,
+      "expectedValue": "EP_NUDGE_VALUE"
+    },
+    "Component Position": {
+      "rawValue": "EP_SR_NUMBER",
+      "isDynamic": false,
+      "expectedValue": "EP_SR_NUMBER"
+    },
+    "Segment Name": {
+      "rawValue": "EP_SEGMENT",
+      "isDynamic": false,
+      "expectedValue": "EP_SEGMENT"
+    },
+    "Offer Amount": {
+      "rawValue": "EP_OFFER_AMOUNT",
+      "isDynamic": false,
+      "expectedValue": "EP_OFFER_AMOUNT"
+    },
+    "input amount": {
+      "rawValue": "EP_AMOUNT_ENTERED",
+      "isDynamic": false,
+      "expectedValue": "EP_AMOUNT_ENTERED"
+    },
+    "loan range": {
+      "rawValue": "EP_LOAN_RANGE",
+      "isDynamic": false,
+      "expectedValue": "EP_LOAN_RANGE"
+    },
+    "Tenure": {
+      "rawValue": "EP_TENURE",
+      "isDynamic": false,
+      "expectedValue": "EP_TENURE"
+    },
+    "loan variant": {
+      "rawValue": "EP_LOAN_VARIANT",
+      "isDynamic": false,
+      "expectedValue": "EP_LOAN_VARIANT"
+    },
+    "UID": {
+      "rawValue": "EP_ID",
+      "isDynamic": false,
+      "expectedValue": "EP_ID"
+    },
+    "Gyde assite": {
+      "rawValue": "EP_GYDE_ASSIST",
+      "isDynamic": false,
+      "expectedValue": "EP_GYDE_ASSIST"
+    },
+    "Gyde cta play, pause": {
+      "rawValue": "EP_GYDE_CTA",
+      "isDynamic": false,
+      "expectedValue": "EP_GYDE_CTA"
+    },
+    "Terms and conditionss": {
+      "rawValue": "EP_TNC",
+      "isDynamic": false,
+      "expectedValue": "EP_TNC"
+    },
+    "Promotional consent": {
+      "rawValue": "EP_PROMOTIONAL_CONSENT",
+      "isDynamic": false,
+      "expectedValue": "EP_PROMOTIONAL_CONSENT"
+    },
+    "Gold weight": {
+      "rawValue": "EP_GOLD_WEIGHT",
+      "isDynamic": false,
+      "expectedValue": "EP_GOLD_WEIGHT"
+    },
+    "Gold karat": {
+      "rawValue": "EP_GOLD_KARAT",
+      "isDynamic": false,
+      "expectedValue": "EP_GOLD_KARAT"
+    },
+    "Lending rate": {
+      "rawValue": "EP_LENDING_RATE",
+      "isDynamic": false,
+      "expectedValue": "EP_LENDING_RATE"
+    },
+    "Search": {
+      "rawValue": "EP_SEARCH",
+      "isDynamic": false,
+      "expectedValue": "EP_SEARCH"
+    },
+    "Campaign Name": {
+      "rawValue": "EP_CAMPAIGN",
+      "isDynamic": false,
+      "expectedValue": "EP_CAMPAIGN"
+    },
+    "PWA version": {
+      "rawValue": "EP_PWA_VERSION",
+      "isDynamic": false,
+      "expectedValue": "EP_PWA_VERSION"
+    },
+    "Page Load": {
+      "rawValue": "EP_PAGE_LOAD",
+      "isDynamic": false,
+      "expectedValue": "EP_PAGE_LOAD"
+    },
+    "Latitude/Longitude": {
+      "rawValue": "EP_LAT_LONG",
+      "isDynamic": false,
+      "expectedValue": "EP_LAT_LONG"
+    },
+    "Platform": {
+      "rawValue": "EP_PLATFORM",
+      "isDynamic": false,
+      "expectedValue": "EP_PLATFORM"
+    },
+    "Language": {
+      "rawValue": "EP_LANG",
+      "isDynamic": false,
+      "expectedValue": "EP_LANG"
+    },
+    "Page Name / Screen Name": {
+      "rawValue": "EP_PAGE_NAME",
+      "isDynamic": false,
+      "expectedValue": "EP_PAGE_NAME"
+    },
+    "Source": {
+      "rawValue": "EP_SOURCE",
+      "isDynamic": false,
+      "expectedValue": "EP_SOURCE"
+    },
+    "Sprint release": {
+      "rawValue": "EP_SPRINT",
+      "isDynamic": false,
+      "expectedValue": "EP_SPRINT"
+    },
+    "Loan Application Number": {
+      "rawValue": "EP_APPLICATION_ID",
+      "isDynamic": false,
+      "expectedValue": "EP_APPLICATION_ID"
+    },
+    "Full name": {
+      "rawValue": "EP_FULL_NAME",
+      "isDynamic": false,
+      "expectedValue": "EP_FULL_NAME"
+    },
+    "Branch name": {
+      "rawValue": "EP_BRANCH",
+      "isDynamic": false,
+      "expectedValue": "EP_BRANCH"
+    },
+    "Date of brith": {
+      "rawValue": "EP_DOB",
+      "isDynamic": false,
+      "expectedValue": "EP_DOB"
+    },
+    "pincode": {
+      "rawValue": "EP_PINCODE",
+      "isDynamic": false,
+      "expectedValue": "EP_PINCODE"
+    },
+    "device id": {
+      "rawValue": "EP_DEVICE_ID",
+      "isDynamic": false,
+      "expectedValue": "EP_DEVICE_ID"
+    },
+    "city name": {
+      "rawValue": "EP_CITY",
+      "isDynamic": false,
+      "expectedValue": "EP_CITY"
+    },
+    "state name": {
+      "rawValue": "EP_STATE",
+      "isDynamic": false,
+      "expectedValue": "EP_STATE"
+    },
+    "loan provider": {
+      "rawValue": "EP_LOAN_PROVIDER",
+      "isDynamic": false,
+      "expectedValue": "EP_LOAN_PROVIDER"
+    },
+    "loan amount": {
+      "rawValue": "EP_LOAN_AMOUNT",
+      "isDynamic": false,
+      "expectedValue": "EP_LOAN_AMOUNT"
+    },
+    "branch address": {
+      "rawValue": "EP_BRANCH_ADDRESS",
+      "isDynamic": false,
+      "expectedValue": "EP_BRANCH_ADDRESS"
+    },
+    "Additional Unified CT variables": {
+      "rawValue": "",
+      "isDynamic": false,
+      "expectedValue": null
+    },
+    "EP_UTM_SOURCE": {
+      "rawValue": "pass as per cookie",
+      "isDynamic": false,
+      "expectedValue": "pass as per cookie"
+    },
+    "EP_UTM_MEDIUM": {
+      "rawValue": "pass as per cookie",
+      "isDynamic": false,
+      "expectedValue": "pass as per cookie"
+    },
+    "EP_UTM_CAMPAIGN": {
+      "rawValue": "pass as per cookie",
+      "isDynamic": false,
+      "expectedValue": "pass as per cookie"
+    },
+    "EP_HOSTNAME": {
+      "rawValue": "{{dynamic}}(eg.www.bajajfinserv.in)",
+      "isDynamic": true,
+      "expectedValue": null
+    },
+    "EP_UTM_CONTENT": {
+      "rawValue": "pass as per cookie",
+      "isDynamic": false,
+      "expectedValue": "pass as per cookie"
+    },
+    "EP_DEVICE_TYPE": {
+      "rawValue": "3IN1 (for App)/MOBWEB (for website opened on mobile)/DESKTOPWEB (for website opened on desktop)",
+      "isDynamic": false,
+      "expectedValue": "3IN1 (for App)/MOBWEB (for website opened on mobile)/DESKTOPWEB (for website opened on desktop)"
+    },
+    "EP_GA_ID": {
+      "rawValue": "pass as per cookie",
+      "isDynamic": false,
+      "expectedValue": "pass as per cookie"
+    },
+    "EP_LOGIN_STATUS": {
+      "rawValue": "{{dynamic}} -- (Eg: logged_in, perpetual, non_logged_in)}}",
+      "isDynamic": true,
+      "expectedValue": null
+    },
+    "EP_LAST_CLICK": {
+      "rawValue": "last click pass as per cookie (CD143)",
+      "isDynamic": false,
+      "expectedValue": "last click pass as per cookie (CD143)"
+    }
+  }
+}

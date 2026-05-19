@@ -1,0 +1,326 @@
+{
+  "generatedAt": "2026-05-18T05:30:51.230Z",
+  "source": "clickstream-events.xlsx",
+  "events": [
+    {
+      "name": "GL_HOMEPAGE_CLICKED",
+      "type": "click",
+      "properties": {
+        "EP_COMPONENT_NAME": {
+          "isDynamic": false,
+          "value": "check_loan_eligibility"
+        },
+        "EP_EVENT_TYPE": {
+          "isDynamic": false,
+          "value": "click"
+        },
+        "EP_CLICK_TYPE": {
+          "isDynamic": false,
+          "value": "check_loan_eligibility_button_click"
+        },
+        "EP_REFERENCE_ID": {
+          "isDynamic": false,
+          "value": "check_your_eligibility_for_a_personal_loan"
+        },
+        "EP_PAGE_URL": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_DESTINATION": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SECTION": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CTA_TEXT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PRODUCT_NAME": {
+          "isDynamic": false,
+          "value": "gold-loan"
+        },
+        "EP_PRODUCT_CATEGORY": {
+          "isDynamic": false,
+          "value": "loans"
+        },
+        "EP_PROPERTY_TYPE": {
+          "isDynamic": false,
+          "value": "form"
+        },
+        "EP_CUSTOMER_TYPE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_JOURNEY": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_STAGE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CUSTOMER_ID": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SUCCESS_EVENT_TYPE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SR_NUMBER": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SEGMENT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CAMPAIGN": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PWA_VERSION": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PAGE_LOAD": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LAT_LONG": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PLATFORM": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LANG": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PAGE_NAME": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SOURCE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SPRINT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_APPLICATION_ID": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_DEVICE_ID": {
+          "isDynamic": true,
+          "value": null
+        }
+      }
+    },
+    {
+      "name": "GL_HOMEPAGE_VIEWED",
+      "type": "view",
+      "properties": {
+        "EP_EVENT_TYPE": {
+          "isDynamic": false,
+          "value": "view"
+        },
+        "EP_PAGE_NAME": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PAGE_URL": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_STAGE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PRODUCT_NAME": {
+          "isDynamic": false,
+          "value": "gold-loan"
+        },
+        "EP_PRODUCT_CATEGORY": {
+          "isDynamic": false,
+          "value": "loans"
+        },
+        "EP_PROPERTY_TYPE": {
+          "isDynamic": false,
+          "value": "form"
+        },
+        "EP_CUSTOMER_TYPE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LANG": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LAT_LONG": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PLATFORM": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PAGE_LOAD": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_JOURNEY": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SOURCE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CUSTOMER_ID": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LOAD_TIME": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LAST_CLICK": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_DATA_PRE_FILLED": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LOAD_TYPE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CAMPAIGN": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SPRINT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_OFFER_AMOUNT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_TOAST_MESSAGE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_SUB_SECTION": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PWA_VERSION": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_TENURE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LOAN_VARIANT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_TNC": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PROMOTIONAL_CONSENT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_GYDE_ASSIST": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_APPLICATION_ID": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_FULL_NAME": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_BRANCH": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_DOB": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_PINCODE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_TRACKER": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CT_ID": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_DEVICE_ID": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CITY": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_STATE": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LOAN_PROVIDER": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LOAN_AMOUNT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_CURRENT_LOAN": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_BRANCH_ADDRESS": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LEAD_ID": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_GOLD_WEIGHT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_GOLD_KARAT": {
+          "isDynamic": true,
+          "value": null
+        },
+        "EP_LENDING_RATE": {
+          "isDynamic": true,
+          "value": null
+        }
+      }
+    }
+  ]
+}

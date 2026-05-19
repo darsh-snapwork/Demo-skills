@@ -1,0 +1,44 @@
+{
+  "searchLocations": [
+    "clickstream/",
+    "analytics/",
+    "docs/clickstream/",
+    "src/assets/clickstream/",
+    "src/analytics/",
+    "src/clickstream/",
+    "src/docs/",
+    ".github/clickstream/"
+  ],
+
+  "supportedFiles": [
+    "clickstream-events.json",
+    "clickstream-events.xlsx",
+    "clickstream-events.csv",
+    "clickstream-events.md",
+    "clickstream-events.pdf",
+    "clickstream-events.pptx",
+    "clickstream-events.ppt",
+    "clickstream-sheet.json",
+    "clickstream-sheet.xlsx",
+    "clickstream-sheet.csv",
+    "clickstream-sheet.md",
+    "clickstream-sheet.pdf",
+    "clickstream-sheet.pptx",
+    "analytics-events.json",
+    "analytics-events.xlsx",
+    "analytics-events.csv",
+    "analytics-events.md"
+  ],
+
+  "priorityOrder": [
+    ".json",
+    ".xlsx",
+    ".csv",
+    ".md",
+    ".pdf",
+    ".pptx",
+    ".ppt"
+  ],
+
+  "normalizedOutput": ".github/skills/clickstream-integration/temp/normalized-events.json"
+}
