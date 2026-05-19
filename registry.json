@@ -1,0 +1,10 @@
+{
+    "skills": [
+        {
+            "name": "clickstream-integration",
+            "description": "Clickstream analytics integration skill",
+            "version": "1.0.0",
+            "path": "skills/clickstream-integration"
+        }
+    ]
+}
