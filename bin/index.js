@@ -52,7 +52,8 @@ async function installSkill() {
 
     const destination = path.join(
         process.cwd(),
-        '.skills',
+         '.github',
+        'skills',
         skillName
     );
 
