@@ -50,12 +50,25 @@ async function installSkill() {
         return;
     }
 
-    const destination = path.join(
+    // Create .github/skills folder structure
+
+    const githubFolder = path.join(
         process.cwd(),
-         '.github',
-        'skills',
+        '.github'
+    );
+
+    const skillsFolder = path.join(
+        githubFolder,
+        'skills'
+    );
+
+    const destination = path.join(
+        skillsFolder,
         skillName
     );
+
+    fs.ensureDirSync(githubFolder);
+    fs.ensureDirSync(skillsFolder);
 
     fs.copySync(source, destination);
 
