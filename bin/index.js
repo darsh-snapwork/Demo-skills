@@ -52,8 +52,12 @@ async function installSkill() {
 
     // Create .github/skills folder structure
 
+    const projectRoot = path.resolve('.');
+
+    console.log('Project Root:', projectRoot);
+
     const githubFolder = path.join(
-        process.cwd(),
+        projectRoot,
         '.github'
     );
 
@@ -69,6 +73,8 @@ async function installSkill() {
 
     fs.ensureDirSync(githubFolder);
     fs.ensureDirSync(skillsFolder);
+
+    console.log('Destination Path:', destination);
 
     fs.copySync(source, destination);
 
